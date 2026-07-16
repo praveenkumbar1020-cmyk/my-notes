@@ -1,8 +1,11 @@
 # My Notes
 
-* Buy Groceries
+* Buy Groceries and Milk
 * Learn Git and GitHub
 
 
+
 ## Recipes
+
 * Pasta
+
