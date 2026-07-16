@@ -9,3 +9,6 @@
 
 * Pasta
 
+## To Do
+* Finish learning Git
+* Explore GitHub Actions
