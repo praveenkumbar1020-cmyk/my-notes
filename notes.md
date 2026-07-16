@@ -1,3 +1,5 @@
 # My Notes
--Buy Groceries
-- Learn Git and GitHub
+
+* Buy Groceries
+* Learn Git and GitHub
+
