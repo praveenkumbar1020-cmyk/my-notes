@@ -12,3 +12,6 @@
 ## To Do
 * Finish learning Git
 * Explore GitHub Actions
+
+## Contact
+Emial: you@example.com
