@@ -1,6 +1,6 @@
 # My Notes
 
-* Buy Groceries and Milk
+* Buy Groceries, Milk, and Eggs
 * Learn Git and GitHub
 
 
