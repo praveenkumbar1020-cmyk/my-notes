@@ -14,4 +14,4 @@
 * Explore GitHub Actions
 
 ## Contact
-Emial: you@example.com
+Email: you@example.com
